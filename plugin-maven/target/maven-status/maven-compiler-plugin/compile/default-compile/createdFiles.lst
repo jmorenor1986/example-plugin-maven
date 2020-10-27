@@ -1,3 +1,6 @@
+com\jmorenor\service\MustacheCreateImpl.class
 com\jmorenor\service\YamlLoader.class
+com\jmorenor\service\MustacheCreate.class
 com\jmorenor\service\YamlLoaderImpl.class
 com\jmorenor\dto\EventDto.class
+com\jmorenor\util\MustacheUtil.class
