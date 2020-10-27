@@ -1,0 +1,26 @@
+indexes :
+  SEQUENCE: [sequence]
+
+fileds :
+  PERSON: [personId]
+
+etc:
+  Address:
+    eventDomainName: addressChange
+    tag:
+    version: 1
+    ack: false
+    additionalInfo:
+      #Comment field
+      ger.additional: ADRESSCHANGE
+
+  Addresstwo:
+    eventDomainName: addressChange2
+    tag:
+    version: 2
+    ack: false
+    additionalInfo:
+      #Comment field two
+      ger.additional: ADRESSCHANGE2
+
+
