@@ -1,2 +1,3 @@
 com\jmorenor\service\YamlLoader.class
 com\jmorenor\service\YamlLoaderImpl.class
+com\jmorenor\dto\EventDto.class

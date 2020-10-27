@@ -1,7 +1,9 @@
 package com.jmorenor.service;
 
+import com.jmorenor.dto.EventDto;
+
 import java.util.Optional;
 
 public interface YamlLoader {
-    Optional<Object> readYaml(String s);
+    Optional<EventDto> readYaml(String s);
 }

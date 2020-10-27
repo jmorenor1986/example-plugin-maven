@@ -1,5 +1,4 @@
-indexes :
-  SEQUENCE: [sequence]
+indexes : test
 
 fields :
   PERSON: [personId]

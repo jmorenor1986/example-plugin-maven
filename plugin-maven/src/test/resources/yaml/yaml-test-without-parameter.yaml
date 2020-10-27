@@ -1,8 +1,5 @@
 indexes :
   SEQUENCE: [sequence]
 
-fields :
-  PERSON: [personId]
-
 
 
