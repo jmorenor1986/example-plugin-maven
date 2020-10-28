@@ -1,0 +1,7 @@
+indexes : test
+
+fields :
+  PERSON: [personId]
+
+
+

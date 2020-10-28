@@ -1,0 +1,10 @@
+com\jmorenor\service\FileManagerImpl.class
+com\jmorenor\service\MustacheCreateImpl.class
+com\jmorenor\service\AsccidocManager.class
+com\jmorenor\service\YamlLoader.class
+com\jmorenor\service\MustacheCreate.class
+com\jmorenor\util\MustacheUtil.class
+com\jmorenor\service\FileManager.class
+com\jmorenor\service\YamlLoaderImpl.class
+com\jmorenor\service\AsccidocManagerImpl.class
+com\jmorenor\dto\EventDto.class
