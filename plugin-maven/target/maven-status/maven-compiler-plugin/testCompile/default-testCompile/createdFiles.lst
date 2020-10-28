@@ -1,2 +1,4 @@
+com\jmorenor\service\AsciidocManagerTest.class
+com\jmorenor\service\FileManagerTest.class
 com\jmorenor\service\MustacheCreateTest.class
 com\jmorenor\service\YamlLoaderTest.class
